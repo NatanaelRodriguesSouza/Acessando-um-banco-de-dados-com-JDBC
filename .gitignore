@@ -1,0 +1,18 @@
+# Ignora a pasta db com configs do banco
+db/
+
+# Ignora arquivos .class (Java compilado)
+*.class
+
+# Ignora arquivos de log
+*.log
+
+# Ignora configurações locais do Eclipse/IDEA
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Ignora arquivos de ambiente (se você usar .env)
+.env
