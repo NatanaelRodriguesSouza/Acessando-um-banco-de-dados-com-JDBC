@@ -1,5 +1,5 @@
 # Ignora a pasta db com configs do banco
-db/
+db.properties/
 
 # Ignora arquivos .class (Java compilado)
 *.class
